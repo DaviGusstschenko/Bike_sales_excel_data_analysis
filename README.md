@@ -62,6 +62,8 @@ After cleaning, the dataset represents a high-integrity customer-level table, wh
 - Occupations
 - Geographic regions
 
+ ![Working_sheet.png](Working_sheet.png)
+
 # Exploratory Data Analysis
 
 ## Overall Purchase Behavior
@@ -91,9 +93,15 @@ This highlights income as a relevant—but not exclusive—driver of purchasing 
 - Professional and skilled manual workers dominate purchase counts, reflecting both income stability and lifestyle alignment.
 This concentration indicates that headline purchase volumes are driven by specific customer segments rather than uniform behavior across all occupations.
 
+
+![pivot_table.png](pivot_table.png)
+
 # Strategic Insights
 
 - Bicycle purchases are concentrated within specific age and occupational groups.
 - Gender differences exist but are relatively minor compared to age and occupation effects.
 - Mid-career customers represent the highest-value segment in terms of purchase propensity.
 - Clean, standardized customer data is essential for producing reliable behavioral insights.
+
+
+![Bike_Sales_Dashboard.png](Bike_Sales_Dashboard.png)
